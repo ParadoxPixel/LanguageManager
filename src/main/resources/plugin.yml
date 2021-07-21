@@ -1,0 +1,8 @@
+name: LanguageManager
+main: nl.iobyte.languagemanager.spigot.SpigotLanguageInvoker
+version: 1.0
+author: IOByte
+website: 'https://www.iobyte.nl'
+api-version: 1.17
+commands:
+  lm:

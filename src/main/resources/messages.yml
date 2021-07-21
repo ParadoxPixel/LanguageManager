@@ -1,0 +1,13 @@
+prefix: "&#3498dbLanguageManager &#2980b9>>&r"
+
+NL:
+  loaded: "{prefix} &fNederlands &bals voorkeur ingeladen"
+  changed:
+    V1: "{prefix} &bJe voorkeurstaal is gewijzigd naar &f%NEW%"
+    V2: "{prefix} &bJe voorkeurstaal is gewijzigd van &f%OLD% &bnaar &f%NEW%"
+
+EN:
+  loaded: "{prefix} &bLoaded &fEnglish &bas your preference"
+  changed:
+    V1: "{prefix} &bChanged your preferred language to &f%NEW%"
+    V2: "{prefix} &bChanged your preferred language from &f%OLD% &bto &f%NEW%"
